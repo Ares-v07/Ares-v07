@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ares-v07
-- 👀 I’m interested in programming 
+- 👀 I’m interested in html css python javascript
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Discord Bot
 - 📫 How to reach me on discord areso_0
